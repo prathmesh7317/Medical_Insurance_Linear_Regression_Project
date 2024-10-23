@@ -1,1 +1,1 @@
-# Medical_Insurance_Linear_Regression_Projectt
+# Medical_Insurance_Linear_Regression_Project
